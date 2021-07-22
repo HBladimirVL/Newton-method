@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// BY HUMBERTO BLADIMIR VASQUEZ LOPEZ LV16006
+// BY BLADIMIR LOPEZ
 
 int main(int argc, char** argv) {
 	int iteraciones,i=1; float p0,tol,p,fPo,deri_fPo;
